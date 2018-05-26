@@ -1,3 +1,3 @@
 # htmlTest
 
-# Learning to use GitHub
+Learning to use GitHub
